@@ -1,0 +1,34 @@
+[
+  {
+    "identificacao": 1,
+    "descricao": "ffff",
+    "codigo_fornecedor": "gggg",
+    "descricao_fornecedor": "ffffffhhhhh",
+    "valor_pago": 45.0,
+    "data_pagamento": null
+  },
+  {
+    "identificacao": 1,
+    "descricao": "ffff",
+    "codigo_fornecedor": "gggg",
+    "descricao_fornecedor": "ffffffhhhhh",
+    "valor_pago": 45.0,
+    "data_pagamento": null
+  },
+  {
+    "identificacao": 1,
+    "descricao": "aaaa",
+    "codigo_fornecedor": "aaaaa",
+    "descricao_fornecedor": "aaaaaa",
+    "valor_pago": 45.0,
+    "data_pagamento": null
+  },
+  {
+    "identificacao": 1,
+    "descricao": "bbbbb",
+    "codigo_fornecedor": "bbbbb",
+    "descricao_fornecedor": "bbbbb",
+    "valor_pago": 45.0,
+    "data_pagamento": null
+  }
+]
