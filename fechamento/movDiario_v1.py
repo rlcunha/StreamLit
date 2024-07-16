@@ -62,7 +62,7 @@ class Movimentos(Base):
 
 # Drop and create tables
 # Base.metadata.drop_all(bind=engine)
-# Base.metadata.create_all(bind=engine)
+Base.metadata.create_all(bind=engine)
 
 # Funções de CRUD
 def create_caixa(caixa_aberto, data, saldo_inicial, valor_cartao_credito, valor_cartao_debito, valor_ifood, valor_dinheiro, valor_fiado, saidas_caixa, valor_acrescimo):
